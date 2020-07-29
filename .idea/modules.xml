@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Akka-learning.iml" filepath="$PROJECT_DIR$/.idea/Akka-learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Akka入门与实践/Akka入门与实践.iml" filepath="$PROJECT_DIR$/Akka入门与实践/Akka入门与实践.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MobileNewReader/MobileNewReader.iml" filepath="$PROJECT_DIR$/MobileNewReader/MobileNewReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akka-Client/akka-Client.iml" filepath="$PROJECT_DIR$/akka-Client/akka-Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/akka-quickstart-java/akka-quickstart-java.iml" filepath="$PROJECT_DIR$/akka-quickstart-java/akka-quickstart-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/akkademy-db/akkademy-db.iml" filepath="$PROJECT_DIR$/akkademy-db/akkademy-db.iml" />
     </modules>
   </component>
 </project>

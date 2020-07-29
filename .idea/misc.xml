@@ -8,6 +8,8 @@
       <list>
         <option value="$PROJECT_DIR$/akka-quickstart-java/pom.xml" />
         <option value="$PROJECT_DIR$/Akka入门与实践/pom.xml" />
+        <option value="$PROJECT_DIR$/akka-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/MobileNewReader/pom.xml" />
       </list>
     </option>
   </component>

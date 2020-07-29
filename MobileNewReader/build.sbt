@@ -1,4 +1,4 @@
-name := "Akka入门与实践"
+name := "MobileNewReader"
 
 version := "1.0-SNAPSHOT"
 
@@ -7,6 +7,9 @@ scalaVersion := "2.13.1"
 lazy val akkaVersion = "2.6.8"
 
 libraryDependencies ++= Seq(
+  "com.syncthemall" % "boilerpipe" % "1.2.2",
+  "com.syncthemail" % "boilerpipe" % "1.2.2",
+  "com.akkademy-db" %% "akkademy-db-scala" % "0.0.1-SNAPSHOT",
   "com.typesafe.akka" %% "akka-actor-typed" % akkaVersion,
   "com.typesafe.akka" %% "akka-remote" % akkaVersion,
   "com.typesafe.akka" %% "akka-actor-testkit-typed" % akkaVersion % "test",

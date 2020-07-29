@@ -7,13 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="akka-Client" />
+        <module name="akkademy-db" />
         <module name="akka-quickstart-java" />
-        <module name="Akka入门与实践" />
+        <module name="MobileNewReader" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="akka-Client" target="1.8" />
       <module name="akka-quickstart-java" target="1.8" />
-      <module name="Akka入门与实践" target="1.8" />
+      <module name="akkademy-db" target="1.8" />
+      <module name="MobileNewReader" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MobileNewReader/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akka-Client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/akka-quickstart-java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/akkademy-db/src/main/java/com/example/JavaPongActor.java" charset="UTF-8" />
   </component>
 </project>
